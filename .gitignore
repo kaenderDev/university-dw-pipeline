@@ -1,0 +1,23 @@
+# Ambiente Virtual
+venv/
+.venv/
+env/
+
+# Variáveis de Ambiente
+.env
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Bancos locais de fallback / testes
+*.db
+*.sqlite3
+
+# Dados gerados / CSVs pesados
+data/
+
+# IDEs
+.vscode/
+.idea/
